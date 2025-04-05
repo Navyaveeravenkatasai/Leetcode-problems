@@ -3,7 +3,9 @@ class Solution {
         int left =0;
         int right=s.length() -1;
         while(left<right){
-            if(s.charAt(left) != s.charAt(right)){
+            char currFirst = s.charAt(left);
+        	char currLast = s.charAt(right);
+            if(currFirst != currLast){
                 return false;
             }
             left++;
