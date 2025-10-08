@@ -1,19 +1,26 @@
 class Solution {
 public:
-    bool isPal(const string& s, int left, int right) {
-        // Move left and right to next alphanumeric character
-        while (left < right && !isalnum(s[left])) left++;
-        while (left < right && !isalnum(s[right])) right--;
-
-        // Base case
-        if (left >= right) return true;
-
-        // Compare characters (case-insensitive)
-        if (tolower(s[left]) != tolower(s[right])) return false;
-
-        return isPal(s, left + 1, right - 1); // Recursive step
+    bool isAlphaNum(char ch){
+        if((ch >='0' && ch<='9') || (tolower(ch) >='a' && tolower(ch) <='z')){
+            return true;
+        }
+        return false;
     }
     bool isPalindrome(string s) {
-        return isPal(s, 0, s.length() - 1);   
+        int st=0 , end= s.length()-1;
+
+        while(st<end){
+            if(!isAlphaNum(s[st])){
+                st++;continue;
+            }
+            if(!isAlphaNum(s[end])){
+                end--;continue;
+            }
+            if(tolower(s[st]) != tolower(s[end])){
+                return false;
+            }
+            st++;end--;
+        }
+        return true;
     }
 };
