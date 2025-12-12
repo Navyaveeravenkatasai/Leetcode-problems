@@ -1,3 +1,4 @@
-select employee_id from employees
-where salary <30000 AND manager_id not in (select employee_id from employees)
+select employee_id
+from employees
+where salary<30000 AND manager_id not in (select employee_id from employees)
 order by employee_id
