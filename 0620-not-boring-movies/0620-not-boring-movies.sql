@@ -1,4 +1,4 @@
 select * from Cinema
 where description !='boring'
-and id % 2 =1
-order by id desc
+and id % 2 != 0
+order by rating desc
