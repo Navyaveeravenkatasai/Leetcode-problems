@@ -26,4 +26,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1517-find-users-with-valid-e-mails](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 <!---LeetCode Topics End-->
