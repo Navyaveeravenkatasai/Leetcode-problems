@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -23,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
@@ -41,9 +44,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [3731-find-missing-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
