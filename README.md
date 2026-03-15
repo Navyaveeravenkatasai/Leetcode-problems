@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2206-divide-array-into-equal-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
+| [2974-minimum-number-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2974-minimum-number-game/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3731-find-missing-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
+| [2974-minimum-number-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2974-minimum-number-game/) | Easy |
 | [3731-find-missing-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
+| [2974-minimum-number-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2974-minimum-number-game/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +91,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2974-minimum-number-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2974-minimum-number-game/) | Easy |
 <!---LeetCode Topics End-->
