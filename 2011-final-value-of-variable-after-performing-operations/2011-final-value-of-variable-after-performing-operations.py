@@ -4,6 +4,6 @@ class Solution:
         for i in operations:
             if i == "++X" or i == "X++":
                 count += 1
-            elif i == "--X" or i == "X--":
+            else:
                 count -=1
         return count
