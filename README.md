@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2206-divide-array-into-equal-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2974-minimum-number-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2974-minimum-number-game/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3731-find-missing-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
@@ -95,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2974-minimum-number-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2974-minimum-number-game/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 <!---LeetCode Topics End-->
