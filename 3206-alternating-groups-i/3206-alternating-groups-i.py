@@ -1,8 +1,8 @@
 class Solution(object):
     def numberOfAlternatingGroups(self, colors):
         n = len(colors)
-        ans = 0
         colors += colors
+        ans = 0
         for i in range(n):
             if colors[i] == colors[i+2] and colors[i] != colors[i+1]:
                 ans += 1
