@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0389-find-the-difference](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
+| [0520-detect-capital](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0520-detect-capital/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
