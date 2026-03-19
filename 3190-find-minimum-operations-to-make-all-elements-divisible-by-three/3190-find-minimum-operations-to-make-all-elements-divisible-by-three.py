@@ -1,3 +1,7 @@
 class Solution:
     def minimumOperations(self, nums: List[int]) -> int:
-        return sum(x%3 != 0 for x in nums)
+        res=0
+        for num in nums:
+            if num % 3 !=0:
+                res+=1
+        return res
