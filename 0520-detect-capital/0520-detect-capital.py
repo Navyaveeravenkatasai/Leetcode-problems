@@ -11,6 +11,6 @@ class Solution:
         if count == 0:
             return True
         
-        if count == 1 and ord('A') <= word[0] <= ord('Z'):
+        if count == 1 and ord('A') <= ord(word[0]) <= ord('Z'):
             return True
         return False
