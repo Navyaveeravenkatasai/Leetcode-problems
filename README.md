@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 | [0520-detect-capital](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0682-baseball-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Simulation
