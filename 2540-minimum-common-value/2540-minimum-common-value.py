@@ -1,20 +1,16 @@
 class Solution:
     def getCommon(self, nums1: List[int], nums2: List[int]) -> int:
-        freq1={}
-        freq2={}
+        left=0
+        right=0
+        common=float('inf')
 
-        for ch in nums1:
-            freq1[ch] = freq1.get(ch,0)+1
-        
-        for i in nums2:
-            freq2[i] = freq2.get(i,0)+1
-
-        common=[]
-        for key in freq1:
-            if key in freq2:
-                common.append(key)
-        
-        if common:
-            return min(common)
-        return -1
+        while left < len(nums1) and right < len(nums2):
+            if nums1[left] == nums2[right]:
+                common = nums1[left]
+                break
+            elif nums1[left] < nums2[right]:
+                left+=1
+            else:
+                right+=1
+        return common if common != float('-inf') else -1
         
