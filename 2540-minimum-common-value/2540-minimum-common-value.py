@@ -12,5 +12,5 @@ class Solution:
                 left+=1
             else:
                 right+=1
-        return common if common != float('-inf') else -1
+        return common if common != float('inf') else -1
         
