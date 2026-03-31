@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2206-divide-array-into-equal-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
+| [2363-merge-similar-items](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2363-merge-similar-items/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2206-divide-array-into-equal-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
+| [2363-merge-similar-items](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2363-merge-similar-items/) | Easy |
 | [2540-minimum-common-value](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0389-find-the-difference](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 | [1051-height-checker](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1051-height-checker/) | Easy |
+| [2363-merge-similar-items](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2363-merge-similar-items/) | Easy |
 | [2974-minimum-number-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2974-minimum-number-game/) | Easy |
 | [3731-find-missing-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Bit Manipulation
@@ -171,4 +174,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1051-height-checker/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2363-merge-similar-items](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2363-merge-similar-items/) | Easy |
 <!---LeetCode Topics End-->
