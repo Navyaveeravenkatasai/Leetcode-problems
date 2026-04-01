@@ -1,10 +1,8 @@
 class Solution:
     def maxFreqSum(self, s: str) -> int:
         vowels={'a','e','i','o','u'}
-        count=0
         freq={}
-        vowelmax=0
-        consonantmax=0
+        consonantmax=vowelmax=count=0
         for ch in s:
             freq[ch]=freq.get(ch,0) + 1
         
