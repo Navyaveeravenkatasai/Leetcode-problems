@@ -11,7 +11,7 @@ class Solution:
         for i in freq:
             if i in vowels:
                 vowelmax=max(freq[i],vowelmax)
-            elif i not in vowels:
+            else:
                 consonantmax=max(freq[i],consonantmax)
         
         count = vowelmax + consonantmax
