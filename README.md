@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3731-find-missing-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2206-divide-array-into-equal-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3174-clear-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3174-clear-digits/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
