@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
