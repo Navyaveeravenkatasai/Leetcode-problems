@@ -4,6 +4,4 @@ class Solution:
         for i in range(1,len(height)):
             if height[i-1] > threshold:
                 res.append(i)
-            else:
-                continue
         return res
