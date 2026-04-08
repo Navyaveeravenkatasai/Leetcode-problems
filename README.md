@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1773-count-items-matching-a-rule](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1773-count-items-matching-a-rule](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
