@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0031-next-permutation/) | Medium |
 | [0169-majority-element](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0031-next-permutation/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
