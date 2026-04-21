@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2974-minimum-number-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2974-minimum-number-game/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3206-alternating-groups-i](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3206-alternating-groups-i/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3731-find-missing-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
