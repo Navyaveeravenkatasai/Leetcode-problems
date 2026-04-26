@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1051-height-checker](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1051-height-checker/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1436-destination-city](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1436-destination-city/) | Easy |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2540-minimum-common-value](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -233,4 +235,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 <!---LeetCode Topics End-->
