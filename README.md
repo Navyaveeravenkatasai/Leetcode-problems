@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0682-baseball-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1002-find-common-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1002-find-common-characters/) | Easy |
 | [1051-height-checker](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1122-relative-sort-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0389-find-the-difference](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [1002-find-common-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1002-find-common-characters/) | Easy |
 | [1122-relative-sort-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1122-relative-sort-array/) | Easy |
 | [1436-destination-city](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1436-destination-city/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 | [0520-detect-capital](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [1002-find-common-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1002-find-common-characters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1108-defanging-an-ip-address/) | Easy |
