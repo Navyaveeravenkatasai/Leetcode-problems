@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1393-capital-gainloss](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1393-capital-gainloss/) | Medium |
 | [1517-find-users-with-valid-e-mails](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
