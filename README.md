@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-find-common-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1002-find-common-characters/) | Easy |
 | [1051-height-checker](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1122-relative-sort-array/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1002-find-common-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1002-find-common-characters/) | Easy |
 | [1122-relative-sort-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1122-relative-sort-array/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1436-destination-city](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1436-destination-city/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
