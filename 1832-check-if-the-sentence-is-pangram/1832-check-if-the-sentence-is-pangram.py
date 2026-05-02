@@ -1,8 +1,9 @@
 class Solution:
     def checkIfPangram(self, sentence: str) -> bool:
-        sentence = list(sentence)
-        freq = {}
+        seen = set()
+
         for ch in sentence:
-            freq[ch] = freq.get(ch,0) + 1
-        
-        return len(freq) == 26
+            seen.add(ch)
+            if len(seen) == 26:
+                return True
+        return False
