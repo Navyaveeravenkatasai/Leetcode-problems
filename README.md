@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1436-destination-city](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1436-destination-city/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1122-relative-sort-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1122-relative-sort-array/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1436-destination-city](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1436-destination-city/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
