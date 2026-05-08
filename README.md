@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1436-destination-city](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1436-destination-city/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
