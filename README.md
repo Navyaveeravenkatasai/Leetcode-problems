@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2716-minimize-string-length](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2716-minimize-string-length/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
+| [2864-maximum-odd-binary-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3174-clear-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3174-clear-digits/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1323-maximum-69-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1323-maximum-69-number/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2864-maximum-odd-binary-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1323-maximum-69-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1323-maximum-69-number/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2864-maximum-odd-binary-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2864-maximum-odd-binary-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
