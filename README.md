@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1323-maximum-69-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1323-maximum-69-number/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1323-maximum-69-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1323-maximum-69-number/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Matrix
