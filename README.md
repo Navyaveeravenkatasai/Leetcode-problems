@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2206-divide-array-into-equal-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2363-merge-similar-items/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2206-divide-array-into-equal-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2363-merge-similar-items/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2363-merge-similar-items/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2974-minimum-number-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2974-minimum-number-game/) | Easy |
@@ -231,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2974-minimum-number-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2974-minimum-number-game/) | Easy |
@@ -254,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0506-relative-ranks/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2974-minimum-number-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2974-minimum-number-game/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -320,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2864-maximum-odd-binary-number/) | Easy |
