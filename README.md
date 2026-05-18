@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2716-minimize-string-length](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2716-minimize-string-length/) | Easy |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
