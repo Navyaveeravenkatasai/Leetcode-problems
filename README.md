@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2951-find-the-peaks](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2951-find-the-peaks/) | Easy |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2363-merge-similar-items/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2974-minimum-number-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2974-minimum-number-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
@@ -334,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
