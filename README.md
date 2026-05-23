@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0031-next-permutation](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
 | [0169-majority-element](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0506-relative-ranks](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0506-relative-ranks/) | Easy |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
