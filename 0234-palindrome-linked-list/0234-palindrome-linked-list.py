@@ -1,11 +1,21 @@
 
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
+        stack =[]
         temp = head
-        arr=[]
 
         while temp:
-            arr.append(temp.val)
+            stack.append(temp.val)
             temp = temp.next
 
-        return arr == arr[::-1]
+
+        temp = head
+
+        while temp:
+            if temp.val != stack.pop():
+                return False
+            temp = temp.next
+
+        return True
+        
+
