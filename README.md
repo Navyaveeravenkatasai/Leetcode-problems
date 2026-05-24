@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -299,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -393,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
