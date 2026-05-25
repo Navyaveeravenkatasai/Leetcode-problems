@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2085-count-common-words-with-one-occurrence](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
