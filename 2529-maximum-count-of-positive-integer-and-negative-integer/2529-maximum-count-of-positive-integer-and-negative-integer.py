@@ -1,32 +1,14 @@
 class Solution:
     def maximumCount(self, nums: List[int]) -> int:
 
-        n = len(nums)
+        negative = positive = 0
 
-        low = 0
-        high = n
+        for num in nums:
+            if num < 0:
+                negative += 1
 
-        while low < high:
-            mid = (low + high) // 2
+            elif num != 0 and num > 0:
 
-            if nums[mid] > 0:
-                high = mid
-            else:
-                low = mid + 1
+                positive += 1
 
-        positive = n - low
-
-        low = 0
-        high = n
-
-        while low < high:
-            mid = (low + high) // 2
-
-            if nums[mid] >= 0:
-                high = mid
-            else:
-                low = mid + 1
-
-        negative = low
-
-        return max(positive, negative)
+        return max(negative,positive)
