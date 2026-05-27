@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0389-find-the-difference](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 | [0506-relative-ranks](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0506-relative-ranks/) | Easy |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0148-sort-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0031-next-permutation/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -393,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0206-reverse-linked-list/) | Easy |
@@ -414,4 +418,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
