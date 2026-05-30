@@ -1,19 +1,17 @@
 class Solution:
     def duplicateZeros(self, arr: List[int]) -> None:
-        result = []
-        a = len(arr)
+        """
+        Do not return anything, modify arr in-place instead.
+        """
+        res=[]
+        n=len(arr)
 
-        for num in arr:
-            if num == 0:
-                result.append(0)
-                result.append(0)
+        for ch in arr:
+            if ch == 0:
+                res.append(0)
+                res.append(0)
             else:
-                result.append(num)   
+                res.append(ch)
 
-            if len(result) >= a:
-                    break  
-
-        for i in range(a):
-            arr[i] = result[i]                       
-
-    
+        for i in range(n):
+            arr[i] = res[i]
