@@ -4,10 +4,10 @@ class Solution:
             return sum(cost)
         cost.sort(reverse=True)
         res=[]
-        
+        total = 0
+
         for i in range(len(cost)):
-            if (i+1) % 3 == 0:
-                continue
-            else:
-                res.append(cost[i])
-        return sum(res)
+            if (i+1) % 3 != 0:
+                total += cost[i]
+
+        return total
