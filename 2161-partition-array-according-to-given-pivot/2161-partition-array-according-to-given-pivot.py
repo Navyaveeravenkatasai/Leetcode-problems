@@ -1,29 +1,19 @@
 class Solution:
     def pivotArray(self, nums: List[int], pivot: int) -> List[int]:
         
-        n = len(nums)
-        ans=[0] * n
+        smaller = []
 
-        left = 0
-        right = n-1
+        equal = []
 
-        i=0
-        j=n-1
+        greater = []
 
-        while i < n:
-            if nums[i] < pivot:
-                ans[left] = nums[i]
-                left += 1
+        for num in nums:
+            if num < pivot:
+                smaller.append(num)
+            elif num == pivot:
+                equal.append(num)
+            else:
+                greater.append(num)
 
-            if nums[j] > pivot:
-                ans[right] = nums[j]
-                right -= 1
-
-            i +=1
-            j-=1
-
-        while left <= right:
-            ans[left] = pivot
-            left +=1
-        return ans
+        return smaller + equal + greater
 
