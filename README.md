@@ -369,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3663-find-the-least-frequent-digit/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
