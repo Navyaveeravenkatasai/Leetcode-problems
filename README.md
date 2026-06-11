@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3731-find-missing-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3945-digit-frequency-score](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3945-digit-frequency-score/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3536-maximum-product-of-two-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3945-digit-frequency-score](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3945-digit-frequency-score/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
