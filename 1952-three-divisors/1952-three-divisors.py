@@ -5,6 +5,4 @@ class Solution:
             if n % i == 0:
                 count+=1
         
-        if count == 3:
-            return True
-        return False
+        return count == 3
