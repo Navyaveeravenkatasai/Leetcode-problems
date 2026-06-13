@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0009-palindrome-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1323-maximum-69-number/) | Easy |
@@ -460,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -479,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0055-jump-game/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0509-fibonacci-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -520,4 +523,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
