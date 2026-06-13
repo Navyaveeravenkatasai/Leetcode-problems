@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0506-relative-ranks](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0506-relative-ranks/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0682-baseball-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
