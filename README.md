@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1323-maximum-69-number/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1952-three-divisors](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1952-three-divisors/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2413-smallest-even-multiple/) | Easy |
