@@ -349,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1089-duplicate-zeros](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1089-duplicate-zeros/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -459,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
