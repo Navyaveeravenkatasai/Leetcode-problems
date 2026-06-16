@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0055-jump-game/) | Medium |
 | [0169-majority-element](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0509-fibonacci-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -438,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
