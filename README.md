@@ -381,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3099-harshad-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3099-harshad-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
