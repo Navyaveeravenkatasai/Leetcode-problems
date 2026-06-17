@@ -1,10 +1,8 @@
 class Solution:
     def isPerfectSquare(self, num: int) -> bool:
-        res=[]
-        n = 100000
-        for i in range(n):
-            res.append(i*i)
-
-        if num in res:
-            return True
+        i = 0
+        while i * i <= num:
+            if i*i == num:
+                return True
+            i+=1
         return False
