@@ -1,6 +1,6 @@
 class Solution:
     def sumOfTheDigitsOfHarshadNumber(self, x: int) -> int:
-        tot= list(str(x))
+        tot= str(x)
         res=0
         for ch in tot:
             res+=int(ch)
