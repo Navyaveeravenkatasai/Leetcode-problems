@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3894-traffic-signal-color](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3894-traffic-signal-color/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3498-reverse-degree-of-a-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3894-traffic-signal-color](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3894-traffic-signal-color/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -391,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3536-maximum-product-of-two-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3894-traffic-signal-color](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3894-traffic-signal-color/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3945-digit-frequency-score/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
