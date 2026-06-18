@@ -366,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
+| [0263-ugly-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0263-ugly-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
