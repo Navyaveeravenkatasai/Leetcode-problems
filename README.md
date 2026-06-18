@@ -369,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0263-ugly-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0509-fibonacci-number/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1323-maximum-69-number/) | Easy |
