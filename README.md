@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2032-two-out-of-three](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2032-two-out-of-three/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1748-sum-of-unique-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2032-two-out-of-three](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2032-two-out-of-three/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
+| [2032-two-out-of-three](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2032-two-out-of-three/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
