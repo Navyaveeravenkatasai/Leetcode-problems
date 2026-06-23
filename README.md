@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0258-add-digits/) | Easy |
 | [0682-baseball-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1688-count-of-matches-in-tournament/) | Easy |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
+| [0258-add-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0263-ugly-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0509-fibonacci-number/) | Easy |
@@ -498,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0258-add-digits/) | Easy |
 | [1952-three-divisors](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1952-three-divisors/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2427-number-of-common-factors/) | Easy |
