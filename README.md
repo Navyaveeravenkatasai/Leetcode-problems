@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0506-relative-ranks](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0506-relative-ranks/) | Easy |
 | [0575-distribute-candies](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0575-distribute-candies/) | Easy |
+| [0645-set-mismatch](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0682-baseball-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0575-distribute-candies](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0575-distribute-candies/) | Easy |
+| [0645-set-mismatch](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 | [0455-assign-cookies](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0506-relative-ranks](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0506-relative-ranks/) | Easy |
+| [0645-set-mismatch](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1051-height-checker](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1122-relative-sort-array/) | Easy |
@@ -269,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
+| [0645-set-mismatch](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0645-set-mismatch/) | Easy |
 | [2032-two-out-of-three](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2032-two-out-of-three/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 ## Divide and Conquer
