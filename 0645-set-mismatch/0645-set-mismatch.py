@@ -6,7 +6,7 @@ class Solution:
         duplicate = -1
         missing = -1
 
-        for ch in range(1, n + 1):
+        for ch in range(1,n+1):
             res.append(ch)
 
         for num in nums:
@@ -19,4 +19,4 @@ class Solution:
                 missing = num
                 break
 
-        return [duplicate, missing]
+        return [duplicate,missing]
