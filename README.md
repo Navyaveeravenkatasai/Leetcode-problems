@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0067-add-binary](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0067-add-binary/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0290-word-pattern/) | Easy |
 | [0389-find-the-difference](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0067-add-binary/) | Easy |
 | [0389-find-the-difference](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0645-set-mismatch/) | Easy |
 | [2032-two-out-of-three](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2032-two-out-of-three/) | Easy |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0258-add-digits/) | Easy |
 | [0682-baseball-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
@@ -382,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
+| [0067-add-binary](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0263-ugly-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0367-valid-perfect-square/) | Easy |
