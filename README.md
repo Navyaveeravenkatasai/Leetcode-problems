@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2032-two-out-of-three](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2032-two-out-of-three/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
