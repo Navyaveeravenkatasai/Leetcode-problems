@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-create-binary-tree-from-descriptions](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2363-merge-similar-items/) | Easy |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2363-merge-similar-items/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2974-minimum-number-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2974-minimum-number-game/) | Easy |
 ## Prefix Sum
@@ -468,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
