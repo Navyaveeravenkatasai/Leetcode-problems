@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0704-binary-search/) | Easy |
+| [0706-design-hashmap](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0860-lemonade-change](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0860-lemonade-change/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0575-distribute-candies](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0706-design-hashmap](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1002-find-common-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1002-find-common-characters/) | Easy |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0706-design-hashmap](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -507,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0706-design-hashmap](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -589,4 +593,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1408-string-matching-in-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1408-string-matching-in-an-array/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
