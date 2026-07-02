@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0290-word-pattern/) | Easy |
 | [0389-find-the-difference](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0409-longest-palindrome/) | Easy |
+| [0412-fizz-buzz](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0682-baseball-game/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1688-count-of-matches-in-tournament/) | Easy |
@@ -399,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0263-ugly-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0367-valid-perfect-square/) | Easy |
+| [0412-fizz-buzz](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
