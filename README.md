@@ -401,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0263-ugly-number/) | Easy |
+| [0326-power-of-three](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0509-fibonacci-number/) | Easy |
@@ -526,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
