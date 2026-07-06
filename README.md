@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2363-merge-similar-items/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2578-split-with-minimum-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2974-minimum-number-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2974-minimum-number-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -427,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2469-convert-the-temperature](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2544-alternating-digit-sum/) | Easy |
+| [2578-split-with-minimum-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [2652-sum-multiples](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2652-sum-multiples/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2864-maximum-odd-binary-number/) | Easy |
@@ -491,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2578-split-with-minimum-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2706-buy-two-chocolates/) | Easy |
