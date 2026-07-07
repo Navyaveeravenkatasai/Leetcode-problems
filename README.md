@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2027-minimum-moves-to-convert-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -488,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2027-minimum-moves-to-convert-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
