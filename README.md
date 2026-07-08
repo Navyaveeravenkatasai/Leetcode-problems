@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0704-binary-search/) | Easy |
 | [0706-design-hashmap](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0860-lemonade-change](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0860-lemonade-change/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1002-find-common-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1002-find-common-characters/) | Easy |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1051-height-checker](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1122-relative-sort-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
