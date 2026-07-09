@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0860-lemonade-change](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0860-lemonade-change/) | Easy |
+| [0941-valid-mountain-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0941-valid-mountain-array/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1002-find-common-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1002-find-common-characters/) | Easy |
 | [1051-height-checker](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1051-height-checker/) | Easy |
