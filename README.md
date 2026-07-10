@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2706-buy-two-chocolates](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 | [2951-find-the-peaks](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2951-find-the-peaks/) | Easy |
 | [2974-minimum-number-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2974-minimum-number-game/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
