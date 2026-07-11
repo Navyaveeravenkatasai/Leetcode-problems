@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0067-add-binary/) | Easy |
 | [0342-power-of-four](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
+| [0476-number-complement](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0476-number-complement/) | Easy |
 | [0645-set-mismatch](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0645-set-mismatch/) | Easy |
 | [2032-two-out-of-three](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2032-two-out-of-three/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
