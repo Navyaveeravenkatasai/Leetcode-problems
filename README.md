@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2951-find-the-peaks](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2951-find-the-peaks/) | Easy |
 | [2974-minimum-number-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2974-minimum-number-game/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3024-type-of-triangle](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3024-type-of-triangle/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3151-special-array-i](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3151-special-array-i/) | Easy |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2578-split-with-minimum-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2974-minimum-number-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2974-minimum-number-game/) | Easy |
+| [3024-type-of-triangle](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3024-type-of-triangle/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3024-type-of-triangle](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3024-type-of-triangle/) | Easy |
 | [3099-harshad-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3099-harshad-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
