@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
+| [2942-find-words-containing-character](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2942-find-words-containing-character/) | Easy |
 | [2951-find-the-peaks](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2951-find-the-peaks/) | Easy |
 | [2974-minimum-number-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2974-minimum-number-game/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2864-maximum-odd-binary-number/) | Easy |
+| [2942-find-words-containing-character](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2942-find-words-containing-character/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3136-valid-word](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3136-valid-word/) | Easy |
