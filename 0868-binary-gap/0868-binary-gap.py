@@ -1,7 +1,6 @@
 class Solution:
     def binaryGap(self, n: int) -> int:
         n = bin(n)[2:]
-        i = 1
         res = []
         i = 0
         for ch in n:
