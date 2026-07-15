@@ -472,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3536-maximum-product-of-two-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3894-traffic-signal-color/) | Easy |
@@ -582,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2427-number-of-common-factors](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2427-number-of-common-factors/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
