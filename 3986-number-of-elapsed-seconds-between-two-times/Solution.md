@@ -1,4 +1,4 @@
-# 🚀 Simple & Beginner Friendly | Interval Between Identical Time Strings | Python | O(1) TC
+# 🚀 🔥🔥Master Time Conversion  ⏰ | 🔥 Simplest Python Solution⚡ | O(1) | Beginner Friendly Guide 💡
 
 # Problem Understanding
 
