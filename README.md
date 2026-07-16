@@ -458,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2544-alternating-digit-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [2652-sum-multiples](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2652-sum-multiples/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
