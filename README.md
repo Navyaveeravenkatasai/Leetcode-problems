@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2169-count-operations-to-obtain-zero](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
@@ -452,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1952-three-divisors](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1952-three-divisors/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2169-count-operations-to-obtain-zero](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2469-convert-the-temperature/) | Easy |
