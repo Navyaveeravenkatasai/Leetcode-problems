@@ -451,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
+| [1837-sum-of-digits-in-base-k](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1952-three-divisors](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1952-three-divisors/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
