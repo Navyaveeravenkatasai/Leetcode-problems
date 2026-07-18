@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3498-reverse-degree-of-a-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-two-out-of-three](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2032-two-out-of-three/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -428,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2460-apply-operations-to-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -485,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3663-find-the-least-frequent-digit/) | Easy |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3894-traffic-signal-color/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3945-digit-frequency-score/) | Easy |
