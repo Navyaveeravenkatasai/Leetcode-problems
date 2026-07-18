@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0412-fizz-buzz/) | Easy |
+| [0504-base-7](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0504-base-7/) | Easy |
 | [0520-detect-capital](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -440,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0412-fizz-buzz/) | Easy |
+| [0504-base-7](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0504-base-7/) | Easy |
 | [0509-fibonacci-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0633-sum-of-square-numbers/) | Medium |
