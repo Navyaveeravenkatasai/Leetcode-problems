@@ -491,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3894-traffic-signal-color/) | Easy |
+| [3908-valid-digit-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3908-valid-digit-number/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3945-digit-frequency-score/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
