@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3136-valid-word](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3136-valid-word/) | Easy |
 | [3174-clear-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3174-clear-digits/) | Easy |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
@@ -478,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3099-harshad-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3099-harshad-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
