@@ -449,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0728-self-dividing-numbers/) | Easy |
+| [1025-divisor-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -615,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0055-jump-game/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0509-fibonacci-number/) | Easy |
+| [1025-divisor-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1025-divisor-game/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -668,4 +670,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
