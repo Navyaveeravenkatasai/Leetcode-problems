@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0860-lemonade-change/) | Easy |
 | [0941-valid-mountain-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0941-valid-mountain-array/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1002-find-common-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1002-find-common-characters/) | Easy |
 | [1051-height-checker](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1051-height-checker/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1089-duplicate-zeros/) | Easy |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1051-height-checker](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1122-relative-sort-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -450,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1025-divisor-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -532,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0455-assign-cookies](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0860-lemonade-change/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1323-maximum-69-number/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
