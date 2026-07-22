@@ -369,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2169-count-operations-to-obtain-zero](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [2582-pass-the-pillow](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2582-pass-the-pillow/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2974-minimum-number-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2974-minimum-number-game/) | Easy |
 | [3174-clear-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3174-clear-digits/) | Easy |
@@ -473,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2578-split-with-minimum-sum/) | Easy |
+| [2582-pass-the-pillow](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2582-pass-the-pillow/) | Easy |
 | [2652-sum-multiples](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
