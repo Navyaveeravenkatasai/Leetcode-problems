@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1393-capital-gainloss](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1393-capital-gainloss/) | Medium |
 | [1517-find-users-with-valid-e-mails](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
