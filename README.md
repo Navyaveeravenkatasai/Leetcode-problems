@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0627-swap-sex-of-employees](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1393-capital-gainloss](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1393-capital-gainloss/) | Medium |
 | [1517-find-users-with-valid-e-mails](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
