@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0067-add-binary](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0067-add-binary/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0290-word-pattern/) | Easy |
@@ -626,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0055-jump-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0055-jump-game/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0509-fibonacci-number/) | Easy |
@@ -691,4 +693,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1025-divisor-game/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
