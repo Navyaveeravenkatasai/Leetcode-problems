@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3917-count-indices-with-opposite-parity](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3701-compute-alternating-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3894-traffic-signal-color/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
