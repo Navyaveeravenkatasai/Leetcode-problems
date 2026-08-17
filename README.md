@@ -334,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0476-number-complement](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0476-number-complement/) | Easy |
 | [0645-set-mismatch](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0868-binary-gap](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0868-binary-gap/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2032-two-out-of-three](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2032-two-out-of-three/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
@@ -472,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1323-maximum-69-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1323-maximum-69-number/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
