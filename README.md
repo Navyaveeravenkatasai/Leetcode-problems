@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0031-next-permutation](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
