@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+| [0585-investments-in-2016](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0585-investments-in-2016/) | Medium |
 | [0608-tree-node](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0608-tree-node/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
