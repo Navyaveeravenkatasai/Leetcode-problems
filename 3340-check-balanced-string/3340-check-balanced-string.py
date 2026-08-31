@@ -10,6 +10,4 @@ class Solution:
             else:
                 oddres += int(num[i])
 
-        if evenres == oddres:
-            return True
-        return False
+        return evenres == oddres
