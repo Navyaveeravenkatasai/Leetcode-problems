@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2032-two-out-of-three](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2032-two-out-of-three/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2032-two-out-of-three](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2032-two-out-of-three/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1748-sum-of-unique-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
@@ -244,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2027-minimum-moves-to-convert-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
