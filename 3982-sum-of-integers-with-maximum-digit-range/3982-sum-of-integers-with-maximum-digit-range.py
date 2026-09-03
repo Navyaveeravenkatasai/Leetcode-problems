@@ -1,8 +1,6 @@
 class Solution:
     def maxDigitRange(self, nums: list[int]) -> int:
-        res = 0
-        sumi = 0
-        max_range = 0
+        res = sumi = max_range = 0
         for ch in nums:
             maxi = float('-inf') 
             mini = float('inf')
