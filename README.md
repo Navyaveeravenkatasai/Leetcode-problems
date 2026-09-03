@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3838-weighted-word-mapping](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3917-count-indices-with-opposite-parity](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 | [4020-elevator-requests-i](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/4020-elevator-requests-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -530,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3894-traffic-signal-color](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3894-traffic-signal-color/) | Easy |
 | [3908-valid-digit-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3908-valid-digit-number/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3945-digit-frequency-score/) | Easy |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
