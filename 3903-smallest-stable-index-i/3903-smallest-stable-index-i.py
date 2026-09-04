@@ -1,22 +1,17 @@
 class Solution:
     def firstStableIndex(self, nums: list[int], k: int) -> int:
+        n = len(nums)
 
-        maxi_res = []
-        mini_res = []
-        sumi = 0
-        for ch in range(len(nums)):
-            mini_res.append(nums[ch])
+        for i in range(n):
+            maxi_res = nums[:i + 1]
+            mini_res = nums[i:]
 
-        for ch in range(len(nums)):
-            maxi_res.append(nums[ch])
-            res = max(maxi_res)
-            ans = min(mini_res)
+            maxi = max(maxi_res)
+            mini = min(mini_res)
 
-            sumi = res - ans
+            sumi = maxi - mini
 
             if sumi <= k:
-                return ch
-            del mini_res[0]
-        
+                return i
+
         return -1
-            
