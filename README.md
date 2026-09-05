@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3904-smallest-stable-index-ii](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3917-count-indices-with-opposite-parity](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [3978-unique-middle-element](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3978-unique-middle-element/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 | [4020-elevator-requests-i](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/4020-elevator-requests-i/) | Easy |
 ## Hash Table
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3663-find-the-least-frequent-digit/) | Easy |
+| [3978-unique-middle-element](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3978-unique-middle-element/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
