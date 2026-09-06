@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3903-smallest-stable-index-i](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3917-count-indices-with-opposite-parity](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
+| [3921-score-validator](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3978-unique-middle-element](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3978-unique-middle-element/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3794-reverse-string-prefix](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3894-traffic-signal-color/) | Easy |
+| [3921-score-validator](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3921-score-validator/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -406,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3701-compute-alternating-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3894-traffic-signal-color/) | Easy |
+| [3921-score-validator](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [4020-elevator-requests-i](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/4020-elevator-requests-i/) | Easy |
 ## Design
