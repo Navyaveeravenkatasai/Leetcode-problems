@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3894-traffic-signal-color/) | Easy |
 | [3921-score-validator](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3921-score-validator/) | Easy |
 ## Sliding Window
@@ -472,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2697-lexicographically-smallest-palindrome](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3794-reverse-string-prefix/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
