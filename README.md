@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3794-reverse-string-prefix/) | Easy |
+| [3798-largest-even-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3798-largest-even-number/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3894-traffic-signal-color/) | Easy |
