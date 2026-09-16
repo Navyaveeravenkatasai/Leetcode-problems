@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-two-out-of-three](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2032-two-out-of-three/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -532,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3492-maximum-containers-on-a-ship](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
