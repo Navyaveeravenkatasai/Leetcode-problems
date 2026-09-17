@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3701-compute-alternating-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3861-minimum-capacity-box](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3866-first-unique-even-element/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3904-smallest-stable-index-ii/) | Medium |
