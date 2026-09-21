@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3452-sum-of-good-numbers](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
