@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3978-unique-middle-element](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3978-unique-middle-element/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 | [4020-elevator-requests-i](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/4020-elevator-requests-i/) | Easy |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3866-first-unique-even-element](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3866-first-unique-even-element/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/3945-digit-frequency-score/) | Easy |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Navyaveeravenkatasai/Leetcode-problems/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
